@@ -28,7 +28,7 @@ In this way, we will be able to break the spread chain, enforce social distancin
 - It will help them track and notify the affected people.
 
 ### How will this app help in breaking the chain?
-It is not always possible that the infected person remembers every person they met during the spread of the virus in the body.  And what if in just one click all the people that he/she met and people’s people <b>(the chain)</b> will get notified that they may be vulnerable because somehow they are in the chain of virus spread.(obviously by isolating themselves from family and avoiding meeting other contacts). <b>This way the chain will be broken and the spread would halt. </b>
+It is not always possible for the infected person to remember everyone he/she met after getting infected. Imagine if in a single click everyone he/she met is notified, that they may be vulnerable because somehow they are in the chain of virus spread. This way the chain will be broken and the spread would halt.
 
 ### How will it helpin maintaining social distancing?
 
