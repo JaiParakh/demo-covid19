@@ -30,7 +30,21 @@ In this way, we will be able to break the spread chain, enforce social distancin
 ### How will this app help in breaking the chain?
 It is not always possible for the infected person to remember everyone he/she met after getting infected. Imagine if in a single click everyone he/she met is notified, that they may be vulnerable because somehow they are in the chain of virus spread. This way the chain will be broken and the spread would halt.
 
-### How will it helpin maintaining social distancing?
+
+### How will it help in maintaining social distancing?
+- The user will get an alert if he/she is near a crowded place.
+- Once we have enough users, social distancing can be monitored via GPS.
+
+## Requirements
+
+### User
+- Android Phone
+- Bluettoth , GPS and Wifi permissions
+
+### Developer
+- Android studio, 8gb ram
+- Firebase phone authentication
+- Server space to host the API
 
 ## Contributors
 
