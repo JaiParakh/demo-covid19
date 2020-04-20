@@ -27,7 +27,7 @@ In this way, we will be able to break the spread chain, enforce social distancin
 - Government can closely monitor the situation.
 - It will help them track and notify the affected people.
 
-### USP: breaking the chain
+### USP: Breaking the Chain
 It is not always possible for the infected person to remember everyone he/she met after getting infected. Imagine if in a single click everyone he/she met is notified, that they may be vulnerable because somehow they are in the chain of virus spread. This way the chain will be broken and the spread would halt.
 
 
