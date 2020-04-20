@@ -8,7 +8,7 @@ We believe smartphones are one such technology which may help people and governm
 
 ## Proposed Solution
 
-What if you get a trigger from your phone if you violate social distancing or you met a vulnerable person? Its human nature to forget these norms while communicating, and that’s what awareness is all about. Also what if one need not remember all the people he/she met during any pandemic. 
+What if you get a trigger from your phone if you violate social distancing or you met a vulnerable person? It is human nature to forget these norms while communicating, and that’s what awareness is all about. Also what if one need not remember all the people he/she met during any pandemic. 
 
 We bring up an idea through an application platform where user can ensure social distancing and along with it, if a person gets a virus then all other people directly or indirectly are vulnerable get notified about the vulnerability. <b>With the help of Artificial Intelligence approaches we will be conducting multiple questionnaires based on data available for various stages of symptoms and spread of the virus in body.</b> This will inform the users of the application regarding risks of him being exposed or sick due to cornavirus.
 
