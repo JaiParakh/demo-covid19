@@ -39,12 +39,13 @@ It is not always possible for the infected person to remember everyone he/she me
 
 ### User
 - Android Phone
-- Bluettoth , GPS and Wifi permissions
+- Bluetooth , GPS and Wifi permissions
 
 ### Developer
-- Android studio, 8gb ram
+- Android studio with 8gb ram
 - Firebase phone authentication
 - Server space to host the API
+- We will need a dataset consisting of symtoms recorded in COVID-19 positive patients during the spread of virus in body. We will use the dataset to train an AI model which will prepare the questionnaire for the vulnerable people that are in quarantine after after a particular time interval. This will help in keeping a track for medical supervisors and if prediction goes towards positive indication then after confirmation from medical authorities the app will update the user's profile as COVID-19 positive.
 
 ## Contributors
 
