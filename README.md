@@ -1,4 +1,4 @@
-# Name of the App
+# Sankalp
 
 ## Problem Statement
 
