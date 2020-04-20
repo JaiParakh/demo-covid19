@@ -31,10 +31,6 @@ It is not always possible that the infected person remembers every person they m
 
 ### How will it helpin maintaining social distancing?
 
-
-## Requirements
-
-
 ## Contributors
 
 - [Jai Parakh](https://www.linkedin.com/in/jai-parakh-5626b4178/)
